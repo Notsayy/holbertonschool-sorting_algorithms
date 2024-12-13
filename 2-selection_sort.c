@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * bubble_sort - function that sorts an array of integers in
+ * selection_sort - function that sorts an array of integers in
  * ascending order using the Selection sort algorithm
  *
  * @array: int
